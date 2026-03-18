@@ -4,7 +4,7 @@
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=flat)
-![Questions](https://img.shields.io/badge/Questions-1-blue?style=flat)
+![Questions](https://img.shields.io/badge/Questions-2-blue?style=flat)
 ![Level](https://img.shields.io/badge/Level-Beginner%20to%20Advanced-orange?style=flat)
 
 ---
@@ -21,9 +21,10 @@ This repository is designed to help developers prepare for JavaScript interviews
 
 ## 📑 Table of Questions
 
-| No. | Question                                                           | Topic         | Level       |
-| --- | ------------------------------------------------------------------ | ------------- | ----------- |
-| 01  | [What is JavaScript and its common uses?](./answers/javascript.md) | Core Concepts | 🟢 Beginner |
+| No. | Question                                                                    | Topic         | Level       |
+| --- | --------------------------------------------------------------------------- | ------------- | ----------- |
+| 01  | [What is JavaScript and its common uses?](./answers/javascript.md)          | Core Concepts | 🟢 Beginner |
+| 02  | [What are template literals in JavaScript?](./answers/template-literals.md) | ES6+ Features | 🟢 Beginner |
 
 ---
 
